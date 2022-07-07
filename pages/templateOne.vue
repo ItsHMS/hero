@@ -7,7 +7,7 @@
                 size="30"
                 tile                
               >
-                <span class="white--text text-h5">k.</span>
+                <span class="white--text text-h5">K.</span>
               </v-avatar>
               <h3 class="darkBlue pl-2">Kreed</h3>
             </div>
